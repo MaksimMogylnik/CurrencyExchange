@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\CurrencyExchange.DAL.dll.config
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\CurrencyExchange.DAL.dll
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\CurrencyExchange.DAL.pdb
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\obj\Debug\CurrencyExchange.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\obj\Debug\CurrencyExchange.DAL.csproj.CopyComplete
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\obj\Debug\CurrencyExchange.DAL.dll
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\obj\Debug\CurrencyExchange.DAL.pdb
+C:\Users\PC\source\repos\CurrencyExchange.UI\CurrencyExchange.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
